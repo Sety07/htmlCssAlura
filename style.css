@@ -1,6 +1,13 @@
-body{
+.titulo-principal{
+
   
+  padding-left: 20px;
+  
+  }
+.alinhamento-center{
+  text-align: center;
 }
+
 
 .principal{
 
@@ -21,15 +28,7 @@ em strong{
   
   color: #ff0000;
 }
-.titulo-principal{
 
-  
-  padding-left: 20px;
-  
-  }
-.alinhamento-center{
-  text-align: center;
-}
 
 ul{
 
@@ -54,7 +53,7 @@ font-style: italic;
 
 .beneficios{
 
-  background: #FFFFFF;
+  background: #a9a9a9;
   padding: 20px;
 
 }
