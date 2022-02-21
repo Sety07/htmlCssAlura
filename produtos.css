@@ -22,7 +22,7 @@ nav{
 
 nav li{
 display: inline;
-margin: 00015px;
+margin: 0 0 0 15px;
 
 }
 
@@ -93,4 +93,10 @@ footer{
   background: url("imagens/bg.jpg");
   padding: 40px 0;
   
+}
+.Copyright{
+  color: #ffffff;
+  font-size: 13px;
+  margin: 20px 0 0;
+
 }

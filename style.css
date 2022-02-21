@@ -63,3 +63,14 @@ font-style: italic;
 #missao{
   font-size: 20px;
 }
+
+footer{
+  text-align: center;
+  background: url("imagens/bg.jpg");
+
+}
+
+.copyright{
+  color: #FFFFFF;
+  margin: 30px 0 0;
+}
